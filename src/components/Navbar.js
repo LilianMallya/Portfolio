@@ -91,7 +91,7 @@ const Navbar = () => {
           width: '100%',
           height: { xs: '64px', md: '72px' }
         }}>
-          {/* Name/Logo - Replace with your name */}
+          
           <Button
             component={Link}
             to="/"
