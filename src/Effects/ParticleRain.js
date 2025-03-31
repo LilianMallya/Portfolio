@@ -12,7 +12,7 @@ export default function ParticleRain() {
       id="tsparticles"
       init={particlesInit}
       options={{
-        /* Your particle config from earlier */
+       
       }}
     />
   );
