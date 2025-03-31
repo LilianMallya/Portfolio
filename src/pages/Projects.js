@@ -18,7 +18,7 @@ const Projects = () => {
   const isMobile = useMediaQuery('(max-width:900px)');
   const [loading, setLoading] = React.useState(true);
 
-  // Project data with detailed descriptions matching your READMEs
+  // Project data 
   const projects = [
     {
       title: "TensorFlow Shoe Detection",
