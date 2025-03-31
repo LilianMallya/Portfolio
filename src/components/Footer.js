@@ -47,7 +47,7 @@ const Footer = () => {
         borderTop: '1px solid rgba(255, 255, 255, 0.1)'
       }}
     >
-      {/* Scroll to top button - simplified without AnimatePresence */}
+      
       {isVisible && (
         <motion.div
           initial={{ opacity: 0, y: 20 }}
