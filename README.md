@@ -1,6 +1,6 @@
 # 🌟 Lilian Mallya's Portfolio
 
-A modern developer portfolio showcasing projects, skills, and professional experience. Built with React and MUI for a polished, responsive design.
+A developer portfolio showcasing projects, skills, and professional experience. Built with React and MUI for a polished, responsive design.
 
 ## ✨ Key Features
 
